@@ -15,7 +15,7 @@ Use OpenCore 0.9.8
 | Wifi & BT | Intel AX210 *Replaced                                | 
 | Sound     | ACP3xALC5682M98357                                   |
 
-### What's working
+### What's working ✅
 - [x] Battery percentage
 - [x] Wifi and Bluetooth - AX210 (Origin wifi module is not working)
 - [x] CPU power management
